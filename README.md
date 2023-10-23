@@ -15,5 +15,6 @@ This repository contains all the resources and materials associated with the rob
  
   ### [Code](https://github.com/Diana5B/IntroductionToRobotics/blob/main/controlling_RBG_with_3_Potentiometers.ino)
   ### [Video](https://youtube.com/shorts/4DI-YE8W-8I?si=Qd2odoNIk8rZXYd7)
+  ### ![Led](https://github.com/Diana5B/IntroductionToRobotics/assets/115624763/c4b9e31a-9edc-45ad-b81a-a7d5cc8db585)
   
 </details>
