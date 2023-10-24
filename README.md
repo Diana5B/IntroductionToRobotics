@@ -12,6 +12,8 @@ This repository contains all the resources and materials associated with the rob
  
   ### Task:
   #### Use a separate potentiometer for controlling each color of the RGB LED: Red,Green, and Blue. This control must leverage digital electronics. Specifically, you need to read the potentiometer’s value with Arduino and then write a mapped value to the LED pins.
+  
+  I utilized three potentiometers, allocating one for each color channel, along with three resistors, each with a value of 330 ohms.
  
   ### [Code](https://github.com/Diana5B/IntroductionToRobotics/blob/main/controlling_RBG_with_3_Potentiometers.ino)
   ### [Video](https://youtube.com/shorts/4DI-YE8W-8I?si=Qd2odoNIk8rZXYd7)
