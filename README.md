@@ -29,6 +29,8 @@ This repository contains all the resources and materials associated with the rob
 
   For this project, I employed three red LEDs (connected to pins 10, 11, and 12) to symbolize three different floors (0, 1, and 2), and each LED is accompanied by a 330-ohm resistor. Additionally, there are buttons for each floor, connected to pins 2, 3, and 4, which are used to call the elevator when pressed. Another green LED (linked to pin 13) blinks when the elevator is in motion and is also paired with a 330-ohm resistor. To produce sound effects during the opening or closing of the elevator doors, a buzzer connected to pin 9 is utilized, along with a 100-ohm resistor.
 
+ ### ![schema](https://github.com/Diana5B/IntroductionToRobotics/assets/115624763/f13c6cc4-6900-47b9-b249-0851c884f0bc)
+
  ### [Code](https://github.com/Diana5B/IntroductionToRobotics/blob/main/levator_simulator_wannabe.io)
  ### [Video](https://youtu.be/ucYN62i3QiE?si=VxGs4HqVFmv4JSM7)
  ### ![t2_R](https://github.com/Diana5B/IntroductionToRobotics/assets/115624763/1fff4266-e7b1-4b4d-a747-9191be724cfa)
