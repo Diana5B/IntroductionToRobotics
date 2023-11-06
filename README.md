@@ -18,9 +18,10 @@ This repository contains all the resources and materials associated with the rob
   ### [Code](https://github.com/Diana5B/IntroductionToRobotics/blob/main/controlling_RBG_with_3_Potentiometers.ino)
   ### [Video](https://youtube.com/shorts/4DI-YE8W-8I?si=Qd2odoNIk8rZXYd7)
   ### ![Led](https://github.com/Diana5B/IntroductionToRobotics/assets/115624763/c4b9e31a-9edc-45ad-b81a-a7d5cc8db585)
-
+  
 </details>
 
+ <details>
  <summary>
       <h2>Homework 2: levator simulator wannabe</h2>
   </summary>
@@ -40,6 +41,7 @@ This repository contains all the resources and materials associated with the rob
  
 </details>
 
+<details>
 <summary>
       <h2>Homework 3: 7 segment display drawing</h2>
   </summary>
@@ -50,6 +52,7 @@ This repository contains all the resources and materials associated with the rob
 
 For this project, I employed a joystick connected to digital pin 2 and analog pins A0 and A1 to manipulate a 7-segment display. Additionally, I integrated eight 220-ohm resistors, assigning one to each LED segment of the 7-segment display.
 
+</details>
  ### ![7-seg](https://github.com/Diana5B/IntroductionToRobotics/assets/115624763/e5db910a-e8be-4ded-b855-bac80eb435b1)
 
  ### [Code](https://github.com/Diana5B/IntroductionToRobotics/blob/main/7-segment.ino)
