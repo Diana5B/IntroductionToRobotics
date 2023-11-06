@@ -50,6 +50,6 @@ For this project, I employed a joystick connected to digital pin 2 and analog pi
 
  ### ![schema](https://github.com/Diana5B/IntroductionToRobotics/assets/115624763/f13c6cc4-6900-47b9-b249-0851c884f0bc)
 
- ### [Code](https://github.com/Diana5B/IntroductionToRobotics/blob/main/levator_simulator_wannabe.io)
+ ### [Code](https://github.com/Diana5B/IntroductionToRobotics/blob/main/7-segment.ino)
  ### [Video](https://youtu.be/HcUUxy2D1f8?si=vF2vCRgjEZgWoLeg)
  ### ![7-segment](https://github.com/Diana5B/IntroductionToRobotics/assets/115624763/8c95c285-3510-45fd-8853-f7552d150b63)
