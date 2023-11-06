@@ -35,6 +35,21 @@ This repository contains all the resources and materials associated with the rob
  ### [Video](https://youtu.be/ucYN62i3QiE?si=VxGs4HqVFmv4JSM7)
  ### ![t2_R](https://github.com/Diana5B/IntroductionToRobotics/assets/115624763/1fff4266-e7b1-4b4d-a747-9191be724cfa)
 ### ![tema2_R](https://github.com/Diana5B/IntroductionToRobotics/assets/115624763/41828110-d72b-4577-8aaa-85c9c93fc9f7)
-  
-  
+ 
 </details>
+
+<summary>
+      <h2>Homework 3: 7 segment display drawing</h2>
+  </summary>
+  <br>
+  
+### Task:
+#### You want to use a joystick to control the position of the active segment and effectively "draw" on a 7-segment display. The segment movement should feel natural, allowing segments to transition only to neighboring positions without passing through any "walls" or off-limits areas. This means that the segments will move smoothly from one position to an adjacent one, making the interaction intuitive and user-friendly.
+
+For this project, I employed a joystick connected to digital pin 2 and analog pins A0 and A1 to manipulate a 7-segment display. Additionally, I integrated eight 220-ohm resistors, assigning one to each LED segment of the 7-segment display.
+
+ ### ![schema](https://github.com/Diana5B/IntroductionToRobotics/assets/115624763/f13c6cc4-6900-47b9-b249-0851c884f0bc)
+
+ ### [Code](https://github.com/Diana5B/IntroductionToRobotics/blob/main/levator_simulator_wannabe.io)
+ ### [Video](https://youtu.be/HcUUxy2D1f8?si=vF2vCRgjEZgWoLeg)
+ ### ![t2_R](https://github.com/Diana5B/IntroductionToRobotics/assets/115624763/1fff4266-e7b1-4b4d-a747-9191be724cfa)
