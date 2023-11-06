@@ -48,7 +48,7 @@ This repository contains all the resources and materials associated with the rob
 
 For this project, I employed a joystick connected to digital pin 2 and analog pins A0 and A1 to manipulate a 7-segment display. Additionally, I integrated eight 220-ohm resistors, assigning one to each LED segment of the 7-segment display.
 
- ### ![schema](https://github.com/Diana5B/IntroductionToRobotics/assets/115624763/f13c6cc4-6900-47b9-b249-0851c884f0bc)
+ ### ![7-seg](https://github.com/Diana5B/IntroductionToRobotics/assets/115624763/e5db910a-e8be-4ded-b855-bac80eb435b1)
 
  ### [Code](https://github.com/Diana5B/IntroductionToRobotics/blob/main/7-segment.ino)
  ### [Video](https://youtu.be/HcUUxy2D1f8?si=vF2vCRgjEZgWoLeg)
