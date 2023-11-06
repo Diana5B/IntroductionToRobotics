@@ -19,6 +19,8 @@ This repository contains all the resources and materials associated with the rob
   ### [Video](https://youtube.com/shorts/4DI-YE8W-8I?si=Qd2odoNIk8rZXYd7)
   ### ![Led](https://github.com/Diana5B/IntroductionToRobotics/assets/115624763/c4b9e31a-9edc-45ad-b81a-a7d5cc8db585)
 
+</details>
+
  <summary>
       <h2>Homework 2: levator simulator wannabe</h2>
   </summary>
