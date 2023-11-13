@@ -59,3 +59,25 @@ For this project, I employed a joystick connected to digital pin 2 and analog pi
  ### [Video](https://youtu.be/HcUUxy2D1f8?si=vF2vCRgjEZgWoLeg)
  ### ![7-segment](https://github.com/Diana5B/IntroductionToRobotics/assets/115624763/8c95c285-3510-45fd-8853-f7552d150b63)
 </details>
+
+
+<details>
+  <summary>
+      <h2>Homework 4: Stopwatch Timer</h2>
+  </summary>
+  <br>
+ 
+  ### Task:
+  #### Utilize a 4-digit 7-segment display along with three buttons to create a stopwatch timer with functionality similar to basic stopwatch features found on most phones. Pressing the Start button initiates the timer. While the timer is counting, pressing the lap button records the current timer value in memory. Following a reset, you can use the flag buttons to cycle through the saved lap times.
+  
+  For this assignment, I used a 7-segment display along with three buttons (start/stop, reset, and save lap), along with resistors and wires.
+Button 1: Start/Pause (Display shows "000.0"). When the Start button is pressed, the timer initiates. In Pause Mode, the lap flag button becomes inactive.
+Button 2: Reset (if in pause mode). Reset saved laps (if in lap viewing mode). Pressing the reset button resets the timer to 000.0.
+Button 3: Save Lap (if in counting mode), cycle through the last saved laps (up to 4 laps).
+
+ 
+  ### [Code](https://github.com/Diana5B/IntroductionToRobotics/blob/main/controlling_RBG_with_3_Potentiometers.ino)
+  ### [Video](https://youtu.be/91JSriiT5e8?si=pvMcWtq4HIFvse0P)
+  ### 
+  
+</details>
