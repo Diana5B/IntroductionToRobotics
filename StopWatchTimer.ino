@@ -4,9 +4,9 @@ const int clockPin = 10;  // Connects to SHCP (clock pin) on the shift register
 const int dataPin = 12;   // Connects to DS (data pin) on the shift register
 
 // Define connections to the buttons
-const int startStopButtonPin = 2;  // Connect the start/stop button to analog pin A0
-const int resetButtonPin = 9;      // Connect the reset button to analog pin A1
-const int lapButtonPin=8;
+const int startStopButtonPin = 2;  // Connect the start/stop button to digital pin 2
+const int resetButtonPin = 9;      // Connect the reset button to digital pin 9
+const int lapButtonPin=8;          // Connect the lap button to digital pin 8
  
  
 // Define connections to the digit control pins for a 4-digit display
