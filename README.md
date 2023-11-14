@@ -76,7 +76,7 @@ Button 2: Reset (if in pause mode). Reset saved laps (if in lap viewing mode). P
 Button 3: Save Lap (if in counting mode), cycle through the last saved laps (up to 4 laps).
 
  
-  ### [Code](https://github.com/Diana5B/IntroductionToRobotics/blob/main/controlling_RBG_with_3_Potentiometers.ino)
+  ### [Code](https://github.com/Diana5B/IntroductionToRobotics/blob/main/StopWatchTimer.ino)
   ### [Video](https://youtu.be/91JSriiT5e8?si=pvMcWtq4HIFvse0P)
   ### ![stopwatch](https://github.com/Diana5B/IntroductionToRobotics/assets/115624763/f6b71af1-bf70-4f25-92f5-56a82d8dee6c)
   
