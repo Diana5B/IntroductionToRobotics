@@ -104,6 +104,6 @@ For accomplishing this task, I employed the following components:
 -Breadboard and connecting wires
 
  ### [Code](https://github.com/Diana5B/IntroductionToRobotics/blob/main/Pseudo-SmartEnvironmentMonitorandLogger.ino)
- ### [Video](https://youtu.be/HcUUxy2D1f8?si=vF2vCRgjEZgWoLeg)
- ### ![7-segment](https://github.com/Diana5B/IntroductionToRobotics/assets/115624763/8c95c285-3510-45fd-8853-f7552d150b63)
+ ### [Video]()
+ ### ![Pseudo-Smart Environment Monitor and Logger](https://github.com/Diana5B/IntroductionToRobotics/assets/115624763/59c2aac1-5e07-4211-b73b-c60524d141e5)
 </details>
