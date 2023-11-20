@@ -81,3 +81,29 @@ Button 3: Save Lap (if in counting mode), cycle through the last saved laps (up 
   ### ![stopwatch](https://github.com/Diana5B/IntroductionToRobotics/assets/115624763/f6b71af1-bf70-4f25-92f5-56a82d8dee6c)
   
 </details>
+
+
+
+
+<details>
+<summary>
+      <h2>Homework 5: Pseudo-Smart Environment Monitor and Logger</h2>
+  </summary>
+  <br>
+  
+### Task:
+#### Design a "Smart Environment Monitor and Logger" with Arduino. This project involves employing a range of sensors to collect environmental data, storing this information in EEPROM, and presenting visual feedback through an RGB LED. Additionally, user interaction is facilitated through a Serial Menu. The primary emphasis of this project lies in the seamless integration of sensor readings, efficient memory management, Serial Communication, and achieving the overarching goal of constructing a user-friendly menu system.
+
+For accomplishing this task, I employed the following components:
+
+-Arduino Uno Board
+-Ultrasonic Sensor (HC-SR04)
+-LDR (Light-Dependent Resistor), also known as Photocell, Photoresistor, or Light Sensor
+-RGB LED
+-Appropriate resistors
+-Breadboard and connecting wires
+
+ ### [Code](https://github.com/Diana5B/IntroductionToRobotics/blob/main/Pseudo-SmartEnvironmentMonitorandLogger.ino)
+ ### [Video](https://youtu.be/HcUUxy2D1f8?si=vF2vCRgjEZgWoLeg)
+ ### ![7-segment](https://github.com/Diana5B/IntroductionToRobotics/assets/115624763/8c95c285-3510-45fd-8853-f7552d150b63)
+</details>
