@@ -94,14 +94,7 @@ Button 3: Save Lap (if in counting mode), cycle through the last saved laps (up 
 ### Task:
 #### Design a "Smart Environment Monitor and Logger" with Arduino. This project involves employing a range of sensors to collect environmental data, storing this information in EEPROM, and presenting visual feedback through an RGB LED. Additionally, user interaction is facilitated through a Serial Menu. The primary emphasis of this project lies in the seamless integration of sensor readings, efficient memory management, Serial Communication, and achieving the overarching goal of constructing a user-friendly menu system.
 
-For accomplishing this task, I employed the following components:
-
--Arduino Uno Board
--Ultrasonic Sensor (HC-SR04)
--LDR (Light-Dependent Resistor), also known as Photocell, Photoresistor, or Light Sensor
--RGB LED
--Appropriate resistors
--Breadboard and connecting wires
+For accomplishing this task, I employed the following components: arduino Uno Board, ultrasonic Sensor (HC-SR04), LDR (Light-Dependent Resistor), also known as Photocell, Photoresistor or Light Sensor, RGB LED, appropriate resistors, breadboard and connecting wires
 
  ### [Code](https://github.com/Diana5B/IntroductionToRobotics/blob/main/Pseudo-SmartEnvironmentMonitorandLogger.ino)
  ### [Video]()
