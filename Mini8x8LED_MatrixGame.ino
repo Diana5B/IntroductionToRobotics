@@ -274,18 +274,7 @@ void shootBomb() {
     }
   }
  
-  // Move the bomb until it hits a wall or the edge of the matrix
-  /*while (bombX >= 0 && bombX < matrixSize && bombY >= 0 && bombY < matrixSize && matrix[bombX+1][bombY] != 1)
-    {
-      Serial.println(bombX);
-        bombX++;
-        matrixChanged = true;
-        lc.setLed(0, bombX-1, bombY, 0);
-        lc.setLed(0, bombX, bombY, 1);
-        matrix[bombX - 1][bombY] = 0;
-        matrix[bombX][bombY] = 2; // 2 represents the bomb in the matrix
-        delay(100); // Delay to slow down the bomb movement
-    }*/
+ 
  
   // Detonate the bomb and remove walls
   for (int i = -1; i <= 1; i++) {
