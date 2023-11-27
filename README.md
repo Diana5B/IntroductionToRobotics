@@ -116,8 +116,15 @@ For accomplishing this task, I employed the following components: arduino Uno Bo
 A dot, controlled by a joystick, navigates the screen and consumes another randomly appearing blinking dot(the "food"). When the player moves over the "food," it vanishes, increasing the score by 1, and reappears elsewhere. If the food is inside walls, the player can launch bombs at the walls, detonating them to gain access to the food.
 For accomplishing this task, I employed the following components: Arduino Uno Board, Joystick, 8x8 LED Matrix, MAX7219, Ceramic Capacitor(104pF), Electrolytic Capacitor(10μF), 100kΩ resistor and wires as needed.
 
+### ![BS](https://github.com/Diana5B/IntroductionToRobotics/assets/115624763/0efe9677-4932-49a5-9b94-b611bfe57a75)
+### ![PinConf](https://github.com/Diana5B/IntroductionToRobotics/assets/115624763/9514c2d8-aec0-43e7-baa0-3ec08dcb9c73)
+### ![Tabel](https://github.com/Diana5B/IntroductionToRobotics/assets/115624763/d71e09c4-5bd9-408b-8a6e-f8957d23e369)
+
 
  ### [Code](https://github.com/Diana5B/IntroductionToRobotics/blob/main/Mini8x8LED_MatrixGame.ino)
  ### [Video]()
+
+ ### ![Joc1](https://github.com/Diana5B/IntroductionToRobotics/assets/115624763/536278da-f6c0-4799-ac5a-617a16a7ebff)
+### ![Joc2](https://github.com/Diana5B/IntroductionToRobotics/assets/115624763/b0aea1cf-4341-41ab-965c-ef74162a7e19)
  
 </details>
