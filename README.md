@@ -100,3 +100,24 @@ For accomplishing this task, I employed the following components: arduino Uno Bo
  ### [Video]()
  ### ![Pseudo-Smart Environment Monitor and Logger](https://github.com/Diana5B/IntroductionToRobotics/assets/115624763/59c2aac1-5e07-4211-b73b-c60524d141e5)
 </details>
+
+
+
+
+<details>
+<summary>
+      <h2>Homework 6: Mini 8x8 LED Matrix game</h2>
+  </summary>
+  <br>
+  
+### Task:
+#### Create a compact game within an 8x8 matrix featuring a minimum of three distinct elements: a player that blinks at a slow rate, bombs/bullets with a fast blink and walls that remain static(without any blinking).
+
+A dot, controlled by a joystick, navigates the screen and consumes another randomly appearing blinking dot(the "food"). When the player moves over the "food," it vanishes, increasing the score by 1, and reappears elsewhere. If the food is inside walls, the player can launch bombs at the walls, detonating them to gain access to the food.
+For accomplishing this task, I employed the following components: Arduino Uno Board, Joystick, 8x8 LED Matrix, MAX7219, Ceramic Capacitor(104pF), Electrolytic Capacitor(10μF), 100kΩ resistor and wires as needed.
+
+
+ ### [Code](https://github.com/Diana5B/IntroductionToRobotics/blob/main/Mini8x8LED_MatrixGame.ino)
+ ### [Video]()
+ 
+</details>
