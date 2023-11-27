@@ -122,7 +122,7 @@ For accomplishing this task, I employed the following components: Arduino Uno Bo
 
 
  ### [Code](https://github.com/Diana5B/IntroductionToRobotics/blob/main/Mini8x8LED_MatrixGame.ino)
- ### [Video]()
+ ### [Video](https://youtube.com/shorts/P6rzC0VJxBo?si=krifKGd0qe0iPOEn)
 
  ### ![Joc1](https://github.com/Diana5B/IntroductionToRobotics/assets/115624763/536278da-f6c0-4799-ac5a-617a16a7ebff)
 ### ![Joc2](https://github.com/Diana5B/IntroductionToRobotics/assets/115624763/b0aea1cf-4341-41ab-965c-ef74162a7e19)
